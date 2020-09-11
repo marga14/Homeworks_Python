@@ -1,2 +1,2 @@
 # Homeworks_Python
-Homworks for the Python introductory course
+Homeworks for the Python introductory course
